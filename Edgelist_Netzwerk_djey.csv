@@ -1,0 +1,7 @@
+from,to,weight,relation
+dm,md,2,3
+dm,jg,2,2
+dm,nm,1,1
+dm,jr,1,1
+md,jg,1,4
+jr,nm,1,1
